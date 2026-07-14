@@ -173,6 +173,8 @@ DOCKERHUB_TOKEN
 
 The token should be a Docker Hub access token, not your regular password.
 
+CI/CD is configured to run tests, build the Docker image, scan it, and push it to Docker Hub after a successful push to GitHub.
+
 ## Submission Screenshots
 
 For Canvas, include:
