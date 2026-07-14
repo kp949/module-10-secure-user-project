@@ -157,10 +157,8 @@ Calculator body:
 Docker Hub repository:
 
 ```text
-https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/module10-fastapi-secure-users
+https://hub.docker.com/r/kp949/module10-fastapi-secure-users
 ```
-
-Replace `YOUR_DOCKERHUB_USERNAME` with your real Docker Hub username after you create the repository.
 
 ## GitHub Actions Secrets
 
